@@ -43,3 +43,12 @@ chmod +x d4nu-ghost-anti-judol-termux.sh
 
 # Jalankan script
 ./d4nu-ghost-anti-judol-termux.sh
+---
+
+## ⚠️ Peringatan
+- Script ini hanya dibuat untuk memblokir situs judi online (judol) demi tujuan edukasi & proteksi.  
+- Dilarang keras menggunakan script ini untuk aktivitas ilegal di luar tujuan yang disebutkan.  
+- **Author (d4nu-ghost) tidak bertanggung jawab** atas penyalahgunaan script ini.  
+- Gunakan dengan bijak dan sesuai aturan hukum yang berlaku.  
+
+---
