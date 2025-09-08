@@ -11,8 +11,8 @@ Script Linux sederhana untuk memblokir situs judi online (judol) menggunakan dns
 ---
 
 ## 📦 Instalasi
-Clone repo ini:
-## untuk Linux
+
+## versi Linux
 
 
 $git clone https://github.com/d4nughost999/anti-judol.git
@@ -23,3 +23,24 @@ $chmod +x d4nu-ghost-anti-judol.sh
 --------------------------------------------------------
 $sudo ./d4nu-ghost-anti-judol.sh
 --------------------------------------------------------
+
+
+## 📦 Instalasi
+
+## versi Termux
+
+# Update & install paket dasar
+pkg update && pkg upgrade -y
+pkg install git curl -y
+
+# Clone repo
+git clone https://github.com/d4nughost999/anti-judol.git
+
+# Masuk ke folder repo
+cd anti-judol
+
+# Kasih izin eksekusi ke script Termux
+chmod +x d4nu-ghost-anti-judol-termux.sh
+
+# Jalankan script
+./d4nu-ghost-anti-judol-termux.sh
