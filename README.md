@@ -12,6 +12,8 @@ Script Linux sederhana untuk memblokir situs judi online (judol) menggunakan dns
 
 ## 📦 Instalasi
 Clone repo ini:
+## untuk Linux
+
 
 $git clone https://github.com/d4nughost999/anti-judol.git
 --------------------------------------------------------
